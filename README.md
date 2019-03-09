@@ -5,9 +5,13 @@ This is a simple 8-bit CPU. It contains two registers A and B and each is 8 bits
 Example Instructions:
 
 SET A,9
+
 SET B,46
+
 ADD A,B
+
 WRITE A,20
+
 SET B,90
 ADD B,A
 WRITE B,120
